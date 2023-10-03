@@ -1,0 +1,6 @@
+_site*
+.sass-cache
+.jekyll-metadata
+*backup/
+_posts/2016-*
+_posts/2013-*

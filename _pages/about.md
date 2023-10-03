@@ -1,35 +1,36 @@
 ---
-title: About Index
-subtitle: Index is a minimal, fixed sidebar grid portfolio Jekyll theme. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
+title: About
+subtitle: At Virtual Style Companion, we believe that fashion is not just about following trends—it's about self-expression, confidence, and embracing your individuality. 
+description: Whether you're a fashion enthusiast or someone looking to enhance their personal style, you've come to the right place.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/about-main.jpg)
 
-## Features
+## Welcome to Virtual Style Companion
 
-Index is packed with powerful features to showcase your work:
+We empower individuals to confidently express their unique style, discover their fashion identity, and embrace self-expression!
 
-* Beautiful, minimal design
-* Fixed sidebar menu
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+We are here for you to unlock your unique style by  embracing the power of color analysis!
 
-## Get Index
+Discover the magic hues that complement you and elevate your style game!
 
-Index is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
+Unlock your personal style palette,  discover your true colors, unleash your fashion potential to feel confident in every outfit!
 
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+Declutter with confidence. Let your closet reflect your authentic self!
+
+Revolutionize your shopping experience: ask our virtual shopping assistant for expert fashion advice, check if colors match your palette! 
+
+##  Our Mission
+
+"At VirtualStyleCompanion, our mission is to empower individuals to embrace their unique style and unlock the confidence that comes with it. We believe that fashion is a powerful form of self-expression, and everyone deserves the tools and support to make their fashion choices reflect their true selves.
+
+We're on a mission to simplify and revolutionize the way you approach fashion. Our app combines cutting-edge AI technology, expert color analysis, and a supportive community of style coaches to guide you on your style journey. Whether you're a fashion enthusiast or just starting to explore your personal style, we're here to help you make fashion choices that make you feel your best.
+
+But our mission goes beyond personal style. We're committed to sustainability and conscious consumerism. By helping you build a versatile and intentional wardrobe, we aim to contribute to a more sustainable fashion industry.
+
+With VirtualStyleCompanion, you're not just using an app; you're joining a style revolution. Together, we're redefining fashion as a journey of self-discovery, empowerment, and mindful choices. Welcome to a world where your style is your superpower, and confidence is your ultimate accessory.
+
+Join us in embracing your unique style, one color, one outfit, and one confident step at a time."
+
+- The VirtualStyleCompanion Team
