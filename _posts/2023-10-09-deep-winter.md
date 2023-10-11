@@ -28,3 +28,23 @@ Cool Neutrals: The palette includes cool neutral shades such as charcoal gray, n
 Striking Combinations: The interplay of dark and bright hues within the palette enables the creation of striking and memorable color combinations.
 
 In summary, the Deep Winter color palette is defined by its cool undertones, boldness, and high contrast. It captures the essence of a crisp, clear winter's day and the striking beauty of precious gemstones. Whether used in fashion, interior design, or various creative projects, the Deep Winter palette brings a sense of bold elegance and dramatic impact to any setting, reflecting the cool, clear beauty of the season.
+
+### Characteristics
+
+### Colors
+
+### Fashion and Wardrobe
+
+### Makeup and Beauty
+
+### Jewelry
+
+### Hair Colors
+
+### Perfume Recommendations
+
+### Color Combination Ideas
+
+### Images Source 
+
+https://www.pinterest.de/

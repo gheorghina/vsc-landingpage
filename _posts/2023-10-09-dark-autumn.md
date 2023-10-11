@@ -25,3 +25,23 @@ Versatility: Despite its depth, the Dark Autumn palette is versatile. It can be 
 
 Cozy and Inviting: Wearing or incorporating Dark Autumn colors can create a sense of warmth, comfort, and approachability in your style and surroundings.
 In summary, the Dark Autumn color palette is characterized by its warm undertones, depth, and richness. It captures the essence of autumn's warmth and abundance, making it an inviting and versatile palette for fashion, interior design, and various creative endeavors. Whether used in clothing, home decor, or other applications, Dark Autumn colors bring a sense of richness and sophistication to any setting.
+
+### Characteristics
+
+### Colors
+
+### Fashion and Wardrobe
+
+### Makeup and Beauty
+
+### Jewelry
+
+### Hair Colors
+
+### Perfume Recommendations
+
+### Color Combination Ideas
+
+### Images Source 
+
+https://www.pinterest.de/
