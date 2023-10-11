@@ -1,11 +1,11 @@
 ---
 title: About
-subtitle: At Virtual Style Companion, we believe that fashion is not just about following trends—it's about self-expression, confidence, and embracing your individuality. 
+subtitle: Step into the enchanting realm of VirtualStyleCompanion, where fashion is not just fabric and color, it's the magic that empowers your true self to shine. Our mission is to unveil the mystical world of style, where everyone discovers their unique essence through the art of fashion. At Virtual Style Companion, we believe that fashion is not just about following trends—it's about self-expression, confidence, and embracing your individuality. 
 description: Whether you're a fashion enthusiast or someone looking to enhance their personal style, you've come to the right place.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/about-main.jpg)
+![](/images/colored_forest3.png)
 
 ## Welcome to Virtual Style Companion
 
@@ -23,7 +23,7 @@ Revolutionize your shopping experience: ask our virtual shopping assistant for e
 
 ##  Our Mission
 
-"At VirtualStyleCompanion, our mission is to empower individuals to embrace their unique style and unlock the confidence that comes with it. We believe that fashion is a powerful form of self-expression, and everyone deserves the tools and support to make their fashion choices reflect their true selves.
+At VirtualStyleCompanion, our mission is to empower individuals to embrace their unique style and unlock the confidence that comes with it. We believe that fashion is a powerful form of self-expression, and everyone deserves the tools and support to make their fashion choices reflect their true selves.
 
 We're on a mission to simplify and revolutionize the way you approach fashion. Our app combines cutting-edge AI technology, expert color analysis, and a supportive community of style coaches to guide you on your style journey. Whether you're a fashion enthusiast or just starting to explore your personal style, we're here to help you make fashion choices that make you feel your best.
 
@@ -31,6 +31,6 @@ But our mission goes beyond personal style. We're committed to sustainability an
 
 With VirtualStyleCompanion, you're not just using an app; you're joining a style revolution. Together, we're redefining fashion as a journey of self-discovery, empowerment, and mindful choices. Welcome to a world where your style is your superpower, and confidence is your ultimate accessory.
 
-Join us in embracing your unique style, one color, one outfit, and one confident step at a time."
+Join us in embracing your unique style, one color, one outfit, and one confident step at a time.
 
 - The VirtualStyleCompanion Team
