@@ -14,4 +14,15 @@ sudo bundle install
 bundle exec jekyll serve
 ```
 
+### Contact functionality
+
+It is using [Formspree](https://formspree.io/create/jekyllthemes) which handles up to 50 submissions per month for free. 
+
+This can be replaced with different solutions
+
+### Deployment
+
+
+
+
 

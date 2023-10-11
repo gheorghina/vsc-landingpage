@@ -1,13 +1,12 @@
 ---
-title: FAQ
-subtitle: Frequently Asked Questions 
-description: Frequently Asked Questions
+title: Frequently Asked Questions
+subtitle:  
+description: 
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/about-main.jpg)
+![](/images/cosmic_brain.png)
 
-## Frequently Asked Questions
 
 ### What is Virtual Style Companion?
 

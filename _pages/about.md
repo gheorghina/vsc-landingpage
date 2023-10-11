@@ -33,4 +33,4 @@ With VirtualStyleCompanion, you're not just using an app; you're joining a style
 
 Join us in embracing your unique style, one color, one outfit, and one confident step at a time.
 
-- The VirtualStyleCompanion Team
+*The VirtualStyleCompanion Team

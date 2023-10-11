@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: Virtual Style Companion
+  site_tagline: Your style, your rules.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,12 +9,12 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
       url: '/about'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'FAQ'
+      url: '/faq'  
     - title: 'Contact'
       url: '/contact'
 
