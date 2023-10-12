@@ -83,27 +83,7 @@ Jewelry metals that complement the Soft Autumn color palette should align with t
 
 When selecting jewelry from these recommendations, consider how the metal and materials complement your personal style, skin tone, and the context of your outfit. The goal is to maintain a sense of warmth, coziness, and natural beauty that aligns with the Soft Autumn color palette's warm undertones and earthy aesthetic, creating a harmonious and inviting look.
 
-<div class="gallery" data-columns="3">
-	<img src="/images/blog/Soft%20Autumn/jewelry1.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry2.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry3.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry4.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry5.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry6.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry7.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry8.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry9.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry10.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry11.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry12.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry13.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry14.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry15.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry16.png">
-	<img src="/images/blog/Soft%20Autumn/jewelry17.png">
-</div>
-
-
+![](/images/blog/Soft%20Autumn/jewelry.png)
 
 ### Hair Colors
 
@@ -130,17 +110,7 @@ Hair colors that complement the Soft Autumn color palette should align with the 
 When choosing a hair color, consider your skin tone, personal style, and maintenance preferences. Consulting with a professional colorist can help you select the perfect shade that complements both your complexion and the Soft Autumn color palette, creating a cohesive and inviting overall appearance.
 
 
-<div class="gallery" data-columns="3">
-	<img src="/images/blog/Soft%20Autumn/hair1.png">
-	<img src="/images/blog/Soft%20Autumn/hair2.png">
-	<img src="/images/blog/Soft%20Autumn/hair3.png">
-	<img src="/images/blog/Soft%20Autumn/hair4.png">
-	<img src="/images/blog/Soft%20Autumn/hair5.png">
-	<img src="/images/blog/Soft%20Autumn/hair6.png">
-	<img src="/images/blog/Soft%20Autumn/hair7.png">
-	<img src="/images/blog/Soft%20Autumn/hair8.png">
-	<img src="/images/blog/Soft%20Autumn/hair9.png">
-</div>
+![](/images/blog/Soft%20Autumn/hair_colors.png)
 
 
 ### Perfume Recommendations

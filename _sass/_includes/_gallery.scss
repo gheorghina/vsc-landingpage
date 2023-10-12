@@ -32,6 +32,8 @@
 
 .gallery__item {
 	position: relative;
+	max-width: 300px;
+	max-height: 300px;
 
 	img {
 		width: 100%;
