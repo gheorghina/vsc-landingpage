@@ -1,13 +1,13 @@
 ---
-title: About
-subtitle: Step into the enchanting realm of VirtualStyleCompanion, where fashion is not just fabric and color, it's the magic that empowers your true self to shine. Our mission is to unveil the mystical world of style, where everyone discovers their unique essence through the art of fashion. At Virtual Style Companion, we believe that fashion is not just about following trends—it's about self-expression, confidence, and embracing your individuality. 
+title: A Warm Welcome
+subtitle: Discover Your Colors, Define Your Style. Virtual Style Companion is the place where Fashion Meets Personal Empowerment.
 description: Whether you're a fashion enthusiast or someone looking to enhance their personal style, you've come to the right place.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/colored_forest3.png)
+![](/images/tamara-bellis-IwVRO3TLjLc-unsplash.jpg)
 
-## Welcome to Virtual Style Companion
+## About Us
 
 We empower individuals to confidently express their unique style, discover their fashion identity, and embrace self-expression!
 

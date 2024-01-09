@@ -11,12 +11,14 @@ menu_settings:
   menu_items:
     - title: 'About'
       url: '/about'
+    - title: 'Services'
+      url: '/services'
     - title: 'Blog'
-      url: '/blog/'
-    - title: 'FAQ'
-      url: '/faq'  
+      url: '/blog/'  
     - title: 'Contact'
       url: '/contact'
+    - title: 'FAQ'
+      url: '/faq'
 
 grid_settings:
   overlay_opacity: 0.8
