@@ -241,7 +241,7 @@
 	@include mq(tabletl) {
 		padding: 0;
 		font-size: $menu-medium;
-		color: $text-dark-color;
+		color: $text-white-color;
 
 		&:hover {
 			color: $accent-color;
