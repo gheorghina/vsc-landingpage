@@ -2,7 +2,7 @@
 title: 'Warm Autumn'
 date: 2023-10-09 00:00:00
 description: 'Warm Autumn'
-featured_image: '/images/blog/Warm%20Autumn/cookies_landing.png'
+featured_image: '/images/blog/Warm%20Autumn/warm_autumn_small.png'
 ---
 
 ![](/images/blog/Warm%20Autumn/mood_board.png)
