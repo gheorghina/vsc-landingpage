@@ -1,6 +1,6 @@
 ---
 title: A Warm Welcome
-subtitle: Discover Your Colors, Define Your Style. Virtual Style Companion is the place where Fashion Meets Personal Empowerment.
+subtitle: Discover Your Colors, Define Your Style.
 description: Whether you're a fashion enthusiast or someone looking to enhance their personal style, you've come to the right place.
 featured_image: /images/demo/demo-landscape.jpg
 ---

@@ -42,4 +42,4 @@ Getting started is easy! Simply download the VirtualStyleCompanion app, create y
 
 ### Have more questions?
 
-Feel free to reach out to our support team at contact@virtualstylecompanion.com. We're here to assist you every step of the way! 🌟
+Feel free to reach out to our support team at virtualstylecompanion@tuta.com. We're here to assist you every step of the way! 🌟

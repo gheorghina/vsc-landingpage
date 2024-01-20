@@ -17,11 +17,11 @@ Stay tuned for the launch – a world of personalized style awaits you!
 
 ## Schedule an In Person Color Analysis
 
-![](/images/Screenshot from 2024-01-03 23-16-59.png)
+![](/images/services/Screenshot%20from%202024-01-20%2020-50-48.png)
 
 
 ## Schedule a Virtual Color Analysis
 
-![](/images/windows-6G6akT8biLg-unsplash.jpg)
+![](/images/services/Screenshot%20from%202024-01-20%2020-51-30.png)
 
 
