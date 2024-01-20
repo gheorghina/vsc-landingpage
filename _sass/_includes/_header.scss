@@ -10,6 +10,7 @@
 
 .header {
 	padding: 20px;
+	background-color: black;
 
 	@include mq(tabletp) {
 		padding: 40px;
@@ -81,7 +82,7 @@
 	font-weight: $sitetagline-weight;
 	letter-spacing: $sitetagline-spacing;
 	line-height: $sitetagline-lineheight;
-	color: $text-medium-color;
+	color: $text-white-color;
 
 	@include mq(tabletp) {
 		font-size: $sitetagline-medium;
