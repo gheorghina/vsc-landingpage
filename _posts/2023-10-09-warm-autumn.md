@@ -14,6 +14,14 @@ Warm Autumn is all the delicious colors of hot chocolate, apple cider, dried fru
 
 The characteristics of this captivating seasonal palette, celebrating its unique blend of warmth, depth, and timeless elegance.
 
+### Characteristics
+
+![](/images/blog/Warm%20Autumn/characteristics.png)
+
+### Colors
+
+![](/images/blog/Warm%20Autumn/colors.png)
+
 **Earthy Undertones**: At the heart of the Warm Autumn palette are earthy undertones that mimic the natural world during fall. Think of rich, warm browns reminiscent of chestnuts and cinnamon, as well as muted greens that echo the changing leaves. These foundational colors provide a sense of grounding and stability.
 
 **Fiery Accents**: To complement the earthy base, Warm Autumn features fiery accents like burnt oranges, terracotta reds, and spicy corals. These shades bring a lively energy and vibrancy to the palette, reminiscent of autumn's fiery foliage.
@@ -30,12 +38,6 @@ Elegance and Comfort: The Warm Autumn palette exudes a sense of both elegance an
 **Mood-Boosting**: Warm Autumn shades have been known to evoke feelings of warmth, comfort, and connection. Wearing or surrounding yourself with these colors can boost your mood and create a welcoming atmosphere. It can evoke feelings of comfort, warmth, and connection, contributing to an overall sense of well-being.
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-
-
-### Characteristics
-
-### Colors
 
 ### Fashion and Wardrobe
 
