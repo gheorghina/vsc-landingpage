@@ -37,7 +37,6 @@ Elegance and Comfort: The Warm Autumn palette exudes a sense of both elegance an
 
 **Mood-Boosting**: Warm Autumn shades have been known to evoke feelings of warmth, comfort, and connection. Wearing or surrounding yourself with these colors can boost your mood and create a welcoming atmosphere. It can evoke feelings of comfort, warmth, and connection, contributing to an overall sense of well-being.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ### Fashion and Wardrobe
 
