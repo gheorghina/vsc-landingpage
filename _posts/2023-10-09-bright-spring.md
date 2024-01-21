@@ -173,7 +173,7 @@ The Bright Spring color palette is known for its warm, clear, and vibrant hues t
 When using these color combinations in fashion, home decor, or creative projects, consider the context and your personal style. The key to embracing the Bright Spring palette is to infuse your surroundings and wardrobe with the warmth, clarity, and positivity that these colors convey. Whether you prefer bold and high-contrast looks or softer and pastel combinations, these color recommendations will help you create a vibrant and joyful atmosphere.
 
 
-### Outfits Ideas 
+### Outfit Ideas 
 
 [Source: pinterest](https://www.pinterest.de/)
 

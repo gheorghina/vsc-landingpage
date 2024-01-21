@@ -182,7 +182,7 @@ The Soft Autumn color palette consists of warm and muted earthy tones that creat
 When using these color combinations in fashion, home decor, or creative projects, consider the context and your personal style. Experiment with different proportions of each color to achieve the desired effect, and don't hesitate to add accessories or accents to enhance the overall harmony. The Soft Autumn color palette offers a range of warm and muted hues that allow for versatile and sophisticated color combinations.
 
 
-### Outfits Ideas 
+### Outfit Ideas 
 
 [Source: pinterest](https://www.pinterest.de/)
 
