@@ -15,6 +15,7 @@ Whether it's an in-person color analysis for a personalized touch, virtual color
 
 Stay tuned for the launch – a world of personalized style awaits you!
 
+
 ## Schedule an In Person Color Analysis
 
 ![](/images/services/Screenshot%20from%202024-01-20%2020-50-48.png)
@@ -25,3 +26,6 @@ Stay tuned for the launch – a world of personalized style awaits you!
 ![](/images/services/Screenshot%20from%202024-01-20%2020-51-30.png)
 
 
+## Subscribe for Notification 
+
+![](/images/services/download_app.png)

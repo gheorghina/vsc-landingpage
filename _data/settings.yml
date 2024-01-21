@@ -15,6 +15,8 @@ menu_settings:
       url: '/services'
     - title: 'Blog'
       url: '/blog/'  
+    - title: 'Gallery'
+      url: '/gallery'
     - title: 'Contact'
       url: '/contact'
     - title: 'FAQ'
