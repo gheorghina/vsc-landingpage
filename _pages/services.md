@@ -26,6 +26,6 @@ Stay tuned for the launch – a world of personalized style awaits you!
 ![](/images/services/Screenshot%20from%202024-01-20%2020-51-30.png)
 
 
-## Subscribe for Notification 
+## Get Notified when VSC goes Live 
 
 ![](/images/services/download_app.png)

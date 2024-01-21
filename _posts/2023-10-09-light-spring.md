@@ -5,7 +5,7 @@ description: 'Light Spring'
 featured_image: '/images/blog/Light%20Spring/light_spring_small.png'
 ---
 
-![](/images/blog/Cool%20Summer/mood_board.png)
+![](/images/blog/Cool%20Spring/mood_board.png)
 
 The Light Spring color palette is a subset of the Spring season and is characterized by its soft, delicate, and pastel hues. It exudes the freshness and brightness of springtime, with colors that evoke images of blooming flowers, clear skies, and gentle sunshine. Here's an overview of the Light Spring color palette.
 

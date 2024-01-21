@@ -2,20 +2,20 @@
 title: 'Deep Winter'
 date: 2023-09-10 00:00:00
 description: 'Deep Winter'
-featured_image: '/images/blog/Deep%20winter/deep_winter_small.png'
+featured_image: '/images/blog/Deep%20Winter/deep_winter_small.png'
 ---
 
-![](/images/blog/Deep%20winter/mood_board.png)
+![](/images/blog/Deep%20Winter/mood_board.png)
 
 The Deep Winter color palette is a striking and dramatic collection of colors characterized by cool undertones, depth, and high contrast. This palette is one of the sub-seasons within the broader Winter color family and is particularly well-suited for individuals with cool and deep complexions. Here's an overview of the key characteristics and themes that define the Deep Winter color palette
 
 ### Characteristics
 
-![](/images/blog/Deep%20winter/characteristics.png)
+![](/images/blog/Deep%20Winter/characteristics.png)
 
 ### Colors
 
-![](/images/blog/Deep%20winter/colors.png)
+![](/images/blog/Deep%20Winter/colors.png)
 
 **Cool Undertones**: At the core of the Deep Winter palette are cool undertones that give the colors a sense of crispness and clarity. These undertones often lean towards blue or cool purples, creating a sense of coolness and contrast.
 
