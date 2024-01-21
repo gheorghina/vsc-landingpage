@@ -5,7 +5,7 @@ description: 'Light Summer'
 featured_image: '/images/blog/Light%20Summer/light_summer_small.png'
 ---
 
-![](/images/blog/Cool%20Summer/mood_board.png)
+![](/images/blog/Light%20Summer/mood_board.png)
 
 The Light Summer color palette is a soft and serene collection of colors characterized by cool undertones, muted hues, and a gentle, ethereal quality. This palette is one of the sub-seasons within the broader Summer color family and is particularly well-suited for individuals with cool undertones and light to medium complexions. Here's an overview of the key characteristics and themes that define the Light Summer color palette.
 
