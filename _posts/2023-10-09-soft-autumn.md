@@ -9,6 +9,14 @@ featured_image: '/images/blog/Soft%20Autumn/soft_autumn_small.png'
 
 The Soft Autumn color palette is a warm and muted collection of hues inspired by the colors of autumn. It is one of the sub-seasons within the broader Autumn color family. The Soft Autumn palette is characterized by its warm undertones, soft and earthy shades, and a cozy, natural feel. Here's an overview of the key characteristics and themes that define the Soft Autumn color palette:
 
+### Characteristics
+
+![](/images/blog/Soft%20Autumn/characteristics.png)
+
+### Colors
+
+![](/images/blog/Soft%20Autumn/colors.png)
+
 **Warm Undertones**: At the core of the Soft Autumn palette are warm undertones that infuse the colors with a sense of comfort and coziness. These undertones often lean towards yellows, oranges, and soft browns.
 
 **Muted Earthy Hues**: The palette features muted and soft earthy tones such as warm terracotta, soft pumpkin, honeyed beige, and muted olive green. These colors evoke the essence of autumn landscapes and the changing leaves.
@@ -30,13 +38,6 @@ Earthy Neutrals: Soft browns, warm taupe, and muted grays serve as versatile neu
 
 In summary, the Soft Autumn color palette is defined by its warm undertones, muted earthy hues, and cozy, natural feel. It captures the essence of the autumn season, with its warm and inviting qualities. Whether used in fashion, home decor, or creative projects, the Soft Autumn palette brings a sense of comfort, warmth, and understated beauty to any setting, reflecting the coziness and natural beauty of autumn.
 
-### Characteristics
-
-![](/images/blog/Soft%20Autumn/characteristics.png)
-
-### Colors
-
-![](/images/blog/Soft%20Autumn/colors.png)
 
 ### Fashion and Wardrobe
 
@@ -53,7 +54,10 @@ In summary, the Soft Autumn color palette is defined by its warm undertones, mut
 
 **Earthy Nail Colors**: Select nail polish shades in muted earthy tones to coordinate with your overall look.
 
-### Jewelry
+
+### Jewelry & Eye-wear
+
+![](/images/blog/Soft%20Autumn/jewelry.png)
 
 Jewelry metals that complement the Soft Autumn color palette should align with the palette's warm undertones, muted earthy hues, and cozy, natural feel. Here are some jewelry metal recommendations that work well with the Soft Autumn color palette:
 
@@ -83,9 +87,9 @@ Jewelry metals that complement the Soft Autumn color palette should align with t
 
 When selecting jewelry from these recommendations, consider how the metal and materials complement your personal style, skin tone, and the context of your outfit. The goal is to maintain a sense of warmth, coziness, and natural beauty that aligns with the Soft Autumn color palette's warm undertones and earthy aesthetic, creating a harmonious and inviting look.
 
-![](/images/blog/Soft%20Autumn/jewelry.png)
-
 ### Hair Colors
+
+![](/images/blog/Soft%20Autumn/hair_colors.png)
 
 Hair colors that complement the Soft Autumn color palette should align with the palette's warm undertones, muted earthy hues, and cozy, natural feel. Here are some hair color recommendations that work well with the Soft Autumn color palette:
 
@@ -108,9 +112,6 @@ Hair colors that complement the Soft Autumn color palette should align with the 
 **Muted Auburn Balayage**: A muted auburn balayage hairstyle combines warm and subtle red tones with your natural hair color, creating a soft and harmonious look.
 
 When choosing a hair color, consider your skin tone, personal style, and maintenance preferences. Consulting with a professional colorist can help you select the perfect shade that complements both your complexion and the Soft Autumn color palette, creating a cohesive and inviting overall appearance.
-
-
-![](/images/blog/Soft%20Autumn/hair_colors.png)
 
 
 ### Perfume Recommendations
@@ -139,38 +140,53 @@ Perfume choices that complement the Soft Autumn color palette should resonate wi
 
 When selecting a perfume, it's essential to try them on your skin and allow them to interact with your body chemistry, as fragrances can smell different on each individual. Additionally, consider the occasion and your personal preferences in scents, whether you prefer light and subtle fragrances or richer, more intense scents. These recommendations aim to capture the warmth and natural elegance of the Soft Autumn palette, enhancing your overall sensory experience.
 
+### Celebrities
+
+- Nicole Richie
+- Arizona Muse
+- Tyra Banks
+- Emily Browning
+- Angelina Jolie
+- Clara Alonso
+- Devon Aoki
+
 
 ### Color Combination Ideas
 
 The Soft Autumn color palette consists of warm and muted earthy tones that create a cozy and harmonious feel. When combining colors within this palette, you can achieve elegant and balanced looks. Here are some color combination recommendations for the Soft Autumn palette:
 
-Terracotta and Olive Green: Pair warm terracotta with muted olive green for a rich and earthy combination that evokes the colors of autumn leaves.
+**Terracotta and Olive Green**: Pair warm terracotta with muted olive green for a rich and earthy combination that evokes the colors of autumn leaves.
 
-Warm Brown and Soft Gold: Combining warm brown with soft gold creates a luxurious and inviting look that reflects the palette's warm undertones.
+**Warm Brown and Soft Gold**: Combining warm brown with soft gold creates a luxurious and inviting look that reflects the palette's warm undertones.
 
-Rust and Muted Teal: Rusty orange and muted teal make for a striking contrast that balances warmth with a cool touch.
+**Rust and Muted Teal**: Rusty orange and muted teal make for a striking contrast that balances warmth with a cool touch.
 
-Caramel and Cream: Caramel and cream create a soft and soothing combination that exudes comfort and elegance.
+**Caramel and Cream**: Caramel and cream create a soft and soothing combination that exudes comfort and elegance.
 
-Muted Plum and Soft Sage: Muted plum shades paired with soft sage green evoke a sense of natural beauty and sophistication.
+**Muted Plum and Soft Sage**: Muted plum shades paired with soft sage green evoke a sense of natural beauty and sophistication.
 
-Burnt Orange and Dusty Blue: The contrast between burnt orange and dusty blue creates a dynamic and visually appealing combination.
+**Burnt Orange and Dusty Blue**: The contrast between burnt orange and dusty blue creates a dynamic and visually appealing combination.
 
-Camel and Charcoal Gray: Combining camel and charcoal gray offers a classic and timeless look that suits various occasions.
+**Camel and Charcoal Gray**: Combining camel and charcoal gray offers a classic and timeless look that suits various occasions.
 
-Bronze and Deep Olive: Bronze and deep olive green come together to form a warm and rich duo with a touch of rustic charm.
+**Bronze and Deep Olive**: Bronze and deep olive green come together to form a warm and rich duo with a touch of rustic charm.
 
-Cinnamon and Soft Pink: The warmth of cinnamon paired with soft pink creates a delicate and romantic combination.
+**Cinnamon and Soft Pink**: The warmth of cinnamon paired with soft pink creates a delicate and romantic combination.
 
-Muted Coral and Taupe: Muted coral and taupe blend to create a balanced and elegant look that captures the Soft Autumn palette's essence.
+**Muted Coral and Taupe**: Muted coral and taupe blend to create a balanced and elegant look that captures the Soft Autumn palette's essence.
 
-Amber and Dusty Rose: Amber and dusty rose form a warm and inviting combination that exudes comfort and style.
+**Amber and Dusty Rose**: Amber and dusty rose form a warm and inviting combination that exudes comfort and style.
 
-Terracotta and Navy Blue: Terracotta and navy blue offer a refined and striking contrast that showcases the palette's versatility.
+**Terracotta and Navy Blue**: Terracotta and navy blue offer a refined and striking contrast that showcases the palette's versatility.
 
 When using these color combinations in fashion, home decor, or creative projects, consider the context and your personal style. Experiment with different proportions of each color to achieve the desired effect, and don't hesitate to add accessories or accents to enhance the overall harmony. The Soft Autumn color palette offers a range of warm and muted hues that allow for versatile and sophisticated color combinations.
 
 
-### Images Source 
+### Outfits Ideas 
 
-https://www.pinterest.de/
+[Source: pinterest](https://www.pinterest.de/)
+
+![](/images/blog/Soft%20Autumn/outfits_1.png)
+
+![](/images/blog/Soft%20Autumn/outfits_2.png) 
+
