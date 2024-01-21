@@ -197,4 +197,6 @@ When using these color combinations in fashion, home decor, or creative projects
 
 ![](/images/blog/Bright%20Winter/outfits_1.png)
 
-![](/images/blog/Bright%20Winter/outfits_2.png) 
+![](/images/blog/Bright%20Winter/outfits_2.png)
+
+![](/images/blog/Bright%20Winter/outfits_3.png)
