@@ -48,12 +48,20 @@ In summary, the Light Summer color palette is defined by its cool undertones, so
 
 ### Jewelry
 
+![](/images/blog/Light%20Summer/jewelry.png)
+
 ### Hair Colors
+
+![](/images/blog/Light%20Summer/hair_colors.png)
 
 ### Perfume Recommendations
 
+### Celebrities
+
 ### Color Combination Ideas
 
-### Images Source 
+### Outfit Ideas 
 
-https://www.pinterest.de/
+[Source: pinterest](https://www.pinterest.de/)
+
+![](/images/blog/Light%20Summer/outfits.png)

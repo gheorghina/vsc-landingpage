@@ -44,12 +44,22 @@ Elegance and Comfort: The Warm Autumn palette exudes a sense of both elegance an
 
 ### Jewelry
 
+![](/images/blog/Warm%20Autumn/jewelry.png)
+
+
+
 ### Hair Colors
+
+![](/images/blog/Warm%20Autumn/hair_colors.png)
 
 ### Perfume Recommendations
 
+### Celebrities
+
 ### Color Combination Ideas
 
-### Images Source 
+### Outfit Ideas 
 
-https://www.pinterest.de/
+[Source: pinterest](https://www.pinterest.de/)
+
+![](/images/blog/Warm%20Autumn/outfits.png)

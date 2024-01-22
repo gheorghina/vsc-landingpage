@@ -47,12 +47,20 @@ In summary, the Soft Summer color palette is defined by its cool undertones, mut
 
 ### Jewelry
 
+![](/images/blog/Soft%20Summer/jewelry.png)
+
 ### Hair Colors
+
+![](/images/blog/Soft%20Summer/hair_colors.png)
 
 ### Perfume Recommendations
 
+### Celebrities
+
 ### Color Combination Ideas
 
-### Images Source 
+### Outfit Ideas 
 
-https://www.pinterest.de/
+[Source: pinterest](https://www.pinterest.de/)
+
+![](/images/blog/Soft%20Summer/outfits.png)

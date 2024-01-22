@@ -43,12 +43,20 @@ In summary, the Deep Winter color palette is defined by its cool undertones, bol
 
 ### Jewelry
 
+![](/images/blog/Deep%20Winter/jewelry.png)
+
 ### Hair Colors
+
+![](/images/blog/Deep%20Winter/hair_colors.png)
 
 ### Perfume Recommendations
 
+### Celebrities
+
 ### Color Combination Ideas
 
-### Images Source 
+### Outfit Ideas 
 
-https://www.pinterest.de/
+[Source: pinterest](https://www.pinterest.de/)
+
+![](/images/blog/Deep%20Winter/outfits.png)

@@ -46,12 +46,21 @@ When embracing the Warm Spring palette, you can create a style that is welcoming
 
 ### Jewelry
 
+![](/images/blog/Warm%20Spring/jewelry.png)
+
+
 ### Hair Colors
+
+![](/images/blog/Warm%20Spring/hair_colors.png)
 
 ### Perfume Recommendations
 
+### Celebrities
+
 ### Color Combination Ideas
 
-### Images Source 
+### Outfit Ideas 
 
-https://www.pinterest.de/
+[Source: pinterest](https://www.pinterest.de/)
+
+![](/images/blog/Warm%20Spring/outfits.png)
