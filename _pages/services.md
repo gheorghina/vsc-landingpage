@@ -22,7 +22,7 @@ Discover the magic of in-person color analysis tailored just for you. Our certif
 
 We offer this service at the following locations: 
 
-**Germany**: Berlin, Munchen, Hanover, 
+**Germany**: Berlin, München 
 
 **Romania**: Cluj-Napoca, Baia Mare
 
