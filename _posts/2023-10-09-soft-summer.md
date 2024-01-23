@@ -184,4 +184,6 @@ When using these color combinations in fashion, home decor, or creative projects
 
 [Source: pinterest](https://www.pinterest.de/)
 
-![](/images/blog/Soft%20Summer/outfits.png)
+![](/images/blog/Soft%20Summer/outfits_1.png)
+
+![](/images/blog/Soft%20Summer/outfits_2.png)
