@@ -41,7 +41,6 @@ The Light Summer color palette is a soft and serene collection of colors charact
 In summary, the Light Summer color palette is defined by its cool undertones, soft pastels, and serene quality. It captures the essence of a tranquil summer landscape and the gentle beauty of the season. Whether used in fashion, interior design, or various creative projects, the Light Summer palette brings a sense of soft elegance and cool serenity to any setting, reflecting the clarity and calmness of a summer's day.
 
 
-
 ### Fashion and Wardrobe
 
 ### Makeup and Beauty

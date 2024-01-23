@@ -223,4 +223,6 @@ Remember to balance these colors according to your personal style and the contex
 
 [Source: pinterest](https://www.pinterest.de/)
 
-![](/images/blog/Deep%20Winter/outfits.png)
+![](/images/blog/Deep%20Winter/outfits_1.png)
+
+![](/images/blog/Deep%20Winter/outfits_2.png)
