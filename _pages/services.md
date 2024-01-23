@@ -1,5 +1,5 @@
 ---
-title: What We Offer
+title: Services
 subtitle: 
 description: 
 featured_image: /images/demo/demo-landscape.jpg
@@ -7,7 +7,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ![](/images/tamara-bellis-AreMq4SKhPA-unsplash.jpg)
 
-## Services
+## What We Offer
 
 Unlock your true colors and define your style with our diverse range of services. 
 
