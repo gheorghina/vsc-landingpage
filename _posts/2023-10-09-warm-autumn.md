@@ -217,4 +217,6 @@ Remember that balance is key when creating color combinations. You can use these
 
 [Source: pinterest](https://www.pinterest.de/)
 
-![](/images/blog/Warm%20Autumn/outfits.png)
+![](/images/blog/Warm%20Autumn/outfits_1.png)
+
+![](/images/blog/Warm%20Autumn/outfits_2.png)
