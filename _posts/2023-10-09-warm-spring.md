@@ -191,4 +191,8 @@ When using these color combinations in fashion, home decor, or creative projects
 
 [Source: pinterest](https://www.pinterest.de/)
 
-![](/images/blog/Warm%20Spring/outfits.png)
+![](/images/blog/Warm%20Spring/outfits_1.png)
+
+![](/images/blog/Warm%20Spring/outfits_2.png)
+
+![](/images/blog/Warm%20Spring/outfits_3.png)
