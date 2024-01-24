@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-subtitle:  
+subtitle:  Discover Your Colors, Define Your Style.
 description: 
 featured_image: /images/demo/demo-landscape.jpg
 ---

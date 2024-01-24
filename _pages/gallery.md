@@ -1,6 +1,6 @@
 ---
-title: VSC - Your Style, Your Rules
-subtitle: 
+title: A Warm Welcome to Virtual Style Companion!
+subtitle: Discover Your Colors, Define Your Style.
 description: 
 featured_image: /images/gallery/currated_gallery.jpeg
 ---

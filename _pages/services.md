@@ -1,6 +1,6 @@
 ---
-title: Services
-subtitle: 
+title: A Warm Welcome to Virtual Style Companion!
+subtitle: Discover Your Colors, Define Your Style.
 description: 
 featured_image: /images/demo/demo-landscape.jpg
 ---
