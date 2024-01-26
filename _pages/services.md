@@ -18,7 +18,7 @@ Stay tuned for the launch – a world of personalized style awaits you!
 
 ## Schedule an In Person Color Analysis
 
-Discover the magic of in-person color analysis tailored just for you. Our certified expert consultants will guide you through a personalized session, unveiling the hues that enhance your natural beauty. Subscribe now for exclusive access to our in-person sessions and embark on a journey to redefine your style. Pricing: 320€. Duration: 3-4h
+Discover the magic of in-person color analysis tailored just for you. Our certified expert consultants will guide you through a personalized session, unveiling the hues that enhance your natural beauty. Subscribe now for exclusive access to our in-person sessions and embark on a journey to redefine your style. Pricing: 380€.
 
 We offer this service at the following locations: 
 
@@ -33,7 +33,7 @@ We offer this service at the following locations:
 
 ## Schedule a Virtual Color Analysis
 
-Experience the convenience of virtual color analysis from the comfort of your own space. Subscribe today to access a less accurate but more budget-friendly virtual consultations and unveil a world of colors designed to allow you to explore a palette that complements your unique features. Pricing: 170€. Duration: 1 -1.5h
+Experience the convenience of virtual color analysis from the comfort of your own space. Subscribe today to access a less accurate but more budget-friendly virtual consultations and unveil a world of colors designed to allow you to explore a palette that complements your unique features. Pricing: 230€.
 
 
 [Request a virtual Personal Color Analysis](mailto:virtualstylecompanion@tuta.com?subject=VirtualSession&body=your%20message%20goes%20here)
