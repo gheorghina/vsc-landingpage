@@ -22,7 +22,8 @@ This can be replaced with different solutions
 
 ### Deployment
 
+#### Enable Production Build
 
-
-
-
+```
+JEKYLL_ENV='production' bundle exec jekyll build
+```

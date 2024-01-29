@@ -3,6 +3,8 @@ site: Virtual Style Companion
 url: https://virtualstylecompanion.com
 baseurl: 
 
+google_analytics: UA-XXXXXXXX-Y
+
 collections:
   pages:
     output: true
