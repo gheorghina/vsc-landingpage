@@ -18,32 +18,64 @@ Stay tuned for the launch – a world of personalized style awaits you!
 
 ## In Person Color Analysis
 
-Discover the magic of in-person color analysis tailored just for you. Our certified expert consultants will guide you through a personalized session, unveiling the hues that enhance your natural beauty. Subscribe now for exclusive access to our in-person sessions and embark on a journey to redefine your style. Pricing: 380€.
+Experience a personalized session with our color experts right at our studio. Enjoy the hands-on approach as we analyze your skin tone, hair, and eye color to identify the hues that enhance your natural beauty.  
+
+Unlock your best look with our precision color analysis. Understand which colors enhance your natural beauty and why. 
+
+Our expert-guided analysis uses advanced technology to determine your ideal color palette.
+
+### Benefits:
+
+**Personal Touch**: Benefit from direct interaction and immediate feedback from our style experts.
+
+**Precision Results**: Get the most accurate color palette with our in-depth, face-to-face analysis.
+
+**Boost Your Confidence**: Look and feel your best in colors that complement your skin tone, hair, and eyes.
+
+**Smart Shopping**: Save time and money by knowing exactly which colors to choose for your wardrobe and makeup.
+
+**Tailored Style Advice**: Receive personalized tips and recommendations to refine your style effortlessly.
 
 We offer this service at the following locations: 
 
-**Germany**: Berlin, München 
+**Germany**: Berlin 
 
-**Romania**: Cluj-Napoca, Baia Mare
+**Romania**: Cluj-Napoca, Maramures
 
-[Schedule In Person Color Analysis](mailto:virtualstylecompanion@tuta.com?subject=InPersonSession&body=your%20message%20goes%20here)
+**Pricing**: 349€.
+
+[Schedule In Person Color Analysis](https://virtualstylecompanion.com/contact.html)
 
 ![](/images/services/Screenshot%20from%202024-01-20%2020-50-48.png)
 
 
 ## Virtual Color Analysis
 
-Experience the convenience of virtual color analysis from the comfort of your own space. Subscribe today to access a less accurate but more budget-friendly virtual consultations and unveil a world of colors designed to allow you to explore a palette that complements your unique features. Pricing: 230€.
+Experience the convenience of virtual color analysis from the comfort of your own space. 
+
+No matter where you are, get expert color analysis through our virtual sessions. 
+
+Send us your photo and let our advanced algorithms, combined with expert review, determine your ideal color palette.
+
+### Benefits:
+
+**Convenience**: Access expert advice without leaving your home.
+
+**Fast and Effective**: Receive your personalized color analysis and style tips quickly.
+
+**Interactive Guidance**: Follow-up with our experts to refine your style virtually.
+
+**Pricing**: 229€.
 
 
-[Schedule Virtual Color Analysis](mailto:virtualstylecompanion@tuta.com?subject=VirtualSession&body=your%20message%20goes%20here)
+[Schedule Virtual Color Analysis](https://virtualstylecompanion.com/contact.html)
 
 ![](/images/services/Screenshot%20from%202024-01-20%2020-51-30.png)
 
 
 ## Get Notified When VSC Goes Live
 
-[Get Notified on VSC Go Live](mailto:virtualstylecompanion@tuta.com?subject=Subscribe&body=I%20would%20like%20to%20subscribe%20for%20the%20go%20live%20notification)
+[Get Notified on VSC Go Live](https://virtualstylecompanion.com/contact.html)
 
 ![](/images/services/download_app.png)
 
