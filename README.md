@@ -27,3 +27,7 @@ This can be replaced with different solutions
 ```
 JEKYLL_ENV='production' bundle exec jekyll build
 ```
+
+### Emails
+
+Email are being generated and sent via https://formspree.io/forms/
