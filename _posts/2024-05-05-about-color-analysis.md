@@ -2,10 +2,10 @@
 title: 'Unveiling the Science of Color Analysis'
 date: 2024-05-05 00:00:00
 description: 'the Enduring Value of In-Person Analysis'
-featured_image: '/images/blog/About%20Color%20Analysis/color_wheel.png'
+featured_image: '/images/blog/About%20Color%20Analysis/cover_1.png'
 ---
 
-![](/images/blog/About%20Color%20Analysis/cover.png)
+![](/images/blog/About%20Color%20Analysis/cover_3.png)
 
 
 The modern concept of color analysis can be largely attributed to the Swiss expressionist painter, designer, and teacher [Johannes Itten](https://en.wikipedia.org/wiki/Johannes_Itten), a key figure at the Bauhaus in the early 20th century. Itten was among the first to explore the relationship between colors and their psychological and aesthetic impacts on individuals. His groundbreaking work led to the development of the Itten color wheel, which is foundational in understanding color harmony.
@@ -63,4 +63,4 @@ As we look to the future, the blend of science, art, and personal interaction in
 
 ### Credit Image
 
-- [ritacdaniels](https://www.pinterest.de/ritacdaniels/)
+- [pinterest](https://i.pinimg.com/736x/48/0d/1d/480d1ddc9b60d7ceb7e27e68e474be79.jpg)
