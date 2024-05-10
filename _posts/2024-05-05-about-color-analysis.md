@@ -2,10 +2,10 @@
 title: 'Unveiling the Science of Color Analysis'
 date: 2024-05-05 00:00:00
 description: 'the Enduring Value of In-Person Analysis'
-featured_image: '/images/blog/Bright%20Spring/bright_spring_small.png'
+featured_image: '/images/blog/About%20Color%20Analysis/color_wheel.png'
 ---
 
-![](/images/blog/Bright%20Spring/mood_board.png)
+![](/images/blog/About%20Color%20Analysis/cover.png)
 
 
 The modern concept of color analysis can be largely attributed to the Swiss expressionist painter, designer, and teacher [Johannes Itten](https://en.wikipedia.org/wiki/Johannes_Itten), a key figure at the Bauhaus in the early 20th century. Itten was among the first to explore the relationship between colors and their psychological and aesthetic impacts on individuals. His groundbreaking work led to the development of the Itten color wheel, which is foundational in understanding color harmony.
@@ -60,3 +60,7 @@ The precision and personalization of in-person analysis not only ensure a better
 By helping people choose the right colors and styles from the start, in-person color analysis reduces the likelihood of impulse buys and the accumulation of unworn or discarded clothing. This mindful approach to fashion supports a more sustainable industry by promoting long-term use and appreciation of each garment. 
 
 As we look to the future, the blend of science, art, and personal interaction in color analysis will continue to empower individuals to express their best selves through the transformative power of color, while also fostering a more conscious and sustainable approach to fashion.
+
+### Credit Image
+
+- [ritacdaniels](https://www.pinterest.de/ritacdaniels/)
