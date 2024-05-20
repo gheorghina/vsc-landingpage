@@ -19,6 +19,8 @@ menu_settings:
       url: '/gallery.html'
     - title: 'Contact'
       url: '/contact.html'
+    - title: 'Terms & Conditions'
+      url: '/terms-and-conditions.html'
     - title: 'FAQ'
       url: '/faq.html'
 
