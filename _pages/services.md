@@ -24,9 +24,9 @@ Unlock your best look with our precision color analysis. Understand which colors
 
 Our expert-guided analysis uses advanced technology to determine your ideal color palette.
 
-**Investment**: 349€ 
+**Investment**: 249€ 
 
-**Couples package**: 549€
+**Couples package**: 379€
 
 [**More Details**](/in-person-color-analysis.html)
 
@@ -44,7 +44,7 @@ Experience the convenience of virtual color analysis from the comfort of your ow
 This session is perfect for anyone looking to refine their personal style or make more informed fashion and shopping decisions.
 It is ideal for those with busy schedules who prefer the convenience of receiving personalized advice remotely.
 
-**Investment**: 249€
+**Investment**: 179€
 
 [**More Details**](/virtual-color-analysis.html) 
 
@@ -80,7 +80,7 @@ Designed for a maximum of 5 participants, this intimate and personalized experie
 This workshop is ideal for friends, family, or coworkers looking to share a unique and enriching experience.
 It is perfect for those interested in fashion, personal development, or a fun group activity.
 
-**Investment**: 439€
+**Investment**: 349€
 
 [**More Details**](/workshops.html) 
 

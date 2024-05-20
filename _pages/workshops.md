@@ -14,7 +14,7 @@ Designed for a maximum of 5 participants, this intimate and personalized experie
 
 **Workshop Details**:
     
-*Duration*: 7 hours
+*Duration*: 6 hours
     
 *Location*: VSC Studio Location or we can travel at the customer location
 

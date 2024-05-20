@@ -13,7 +13,7 @@ featured_image: /images/demo/services_ca_2.png
 
 **Session Details**:
 
-*Duration*: 3-4 hours
+*Duration*: 2 hours
 
 *Location*: VSC Studio or at a Client-Preferred Venue
 

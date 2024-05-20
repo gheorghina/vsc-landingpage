@@ -13,7 +13,7 @@ Embark on a journey to discover the colors that enhance your natural beauty from
 
 **Session Details**:
 
-*Duration*: 2-3 hours
+*Duration*: 2 hours
     
 *Platform*: Conducted via Zoom, Skype, or a similar platform for a personalized and interactive experience.
 
