@@ -10,6 +10,8 @@ featured_image: /images/demo/demo-landscape.jpg
 Unlock the secrets to enhancing your natural beauty and confidence with our exclusive Color Analysis Workshop. 
 Designed for a maximum of 5 participants, this intimate and personalized experience will guide each individual through the fundamentals of color theory and how specific colors can harmonize with their natural skin, hair, and eye colors to create stunning, impactful looks.
 
+<br/>
+
 **Workshop Details**:
     
 *Duration*: 7 hours
@@ -17,6 +19,8 @@ Designed for a maximum of 5 participants, this intimate and personalized experie
 *Location*: VSC Studio Location or we can travel at the customer location
 
 *Group Size*: Maximum of 5 participants to ensure personalized attention and interaction.
+
+<br/>
 
 **Objectives**:
     
@@ -27,6 +31,8 @@ Identify each participant’s color season (Spring, Summer, Autumn, Winter) and 
 Learn how to select clothing, makeup, and accessories based on individual color palettes.
 
 Practical demonstrations and personal color draping to see how different colors affect appearance and mood.
+
+<br/>
 
 **Package Inclusions**:
     
@@ -52,7 +58,11 @@ Practical demonstrations and personal color draping to see how different colors 
 *Refreshments*:
     Light snacks and beverages during the break.
 
+<br/>
+
 **Investment**: 439€
+
+<br/>
 
 **Booking and Payment**:
 
@@ -62,6 +72,8 @@ Flexible rescheduling policy for any changes made at least 48 hours in advance.
 
 This workshop is ideal for friends, family, or coworkers looking to share a unique and enriching experience.
 It is perfect for those interested in fashion, personal development, or a fun group activity.
+
+<br/>
 
 [Book a Color Analysis Workshop](/contact.html)
 

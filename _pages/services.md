@@ -26,6 +26,8 @@ Our expert-guided analysis uses advanced technology to determine your ideal colo
 
 **Investment**: 349€ 
 
+**Couples package**: 549€
+
 [**More Details**](/in-person-color-analysis.html)
 
 [Book our In Person Color Analysis](/contact.html)

@@ -10,6 +10,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 Unlock your personal style and boost your confidence with our expert style coaching services. This comprehensive package is designed to help you understand and enhance your personal style, making it easier for you to make wardrobe choices that reflect your true self. Whether you're looking to refresh your current style, need a complete makeover, or want guidance for a special occasion, our style coaching will provide you with the tools and knowledge you need.
 
+<br/>
+
 **Package Details**:
 
 *Duration*: 3 months
@@ -17,6 +19,8 @@ Unlock your personal style and boost your confidence with our expert style coach
 *Sessions*: 6 one-on-one sessions (1 hour each) + ongoing email support
 
 *Location*: Our VSC Studio Location, at the Client’s Home or Virtual Sessions
+
+<br/>
 
 **Objectives**:
 
@@ -27,6 +31,8 @@ Assess and enhance your current wardrobe.
 Learn how to shop effectively for your body type and lifestyle.
 
 Gain confidence in your everyday and special occasion outfits.
+
+<br/>
 
 **Package Inclusions**:
 
@@ -78,7 +84,11 @@ Unlimited email support for any style-related questions or advice throughout the
 
 Follow-up session after three months to review progress and make any necessary adjustments.
 
+<br/>
+
 **Investment**:  1649€
+
+<br/>
 
 **Booking and Payment**:
 
@@ -88,13 +98,15 @@ Flexible payment plans are available upon request.
 
 Rescheduling policy: Sessions can be rescheduled with at least 48 hours' notice.
 
- 
+<br/>
 
 This service is perfect for individuals looking to elevate their personal style and build a versatile wardrobe.
 
 It is ideal for professionals, busy parents, or anyone seeking a confidence boost through improved style.
 
 It makes a thoughtful gift for friends or family members who love fashion or are embarking on a new life phase (e.g., career change) 
+
+<br/>
 
 [Book our Style Coaching Services](/contact.html)
 

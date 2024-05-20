@@ -9,6 +9,8 @@ featured_image: /images/demo/services_ca_2.png
 
  Transform your style and boost your confidence with our In-Person Color Analysis Session. This personalized experience is designed to help you discover the colors that harmonize with your skin, hair, and eyes, empowering you to make choices that enhance your natural beauty and elevate your wardrobe.
 
+ <br/>
+
 **Session Details**:
 
 *Duration*: 3-4 hours
@@ -17,6 +19,8 @@ featured_image: /images/demo/services_ca_2.png
 
 *Group Size*: One-on-one for an intimate and focused experience or small groups up to 3 for a shared but personalized experience.
 
+<br/>
+
 **Objectives**:
 
 Learn the fundamentals of color theory and the 12-season color analysis system.
@@ -24,6 +28,8 @@ Learn the fundamentals of color theory and the 12-season color analysis system.
 Identify your unique color season and how it influences your wardrobe, makeup, and accessory choices.
 
 Gain practical insights into selecting and combining colors that enhance your natural beauty.
+
+<br/>
 
 **Package Inclusions**:
 
@@ -63,6 +69,7 @@ One follow-up virtual consultation within a month to answer any additional quest
 
 Email support for one month post-session for ongoing queries and advice.
 
+<br/>
 
 ### How The Process Works
 
@@ -93,8 +100,12 @@ We offer this service at the following locations:
 
 ![](/images/services/cluj_mm_tgm.png) 
 
+<br/>
+
 
 **Investment**: 349€ 
+
+<br/>
 
 
 **Booking and Payment**:
@@ -106,5 +117,7 @@ Flexible rescheduling policy for changes made at least 48 hours in advance.
 
 This session is ideal for individuals looking to refresh their style or embark on a new fashion journey.
 It is perfect as a gift for special occasions or a fun activity for friends or family members interested in fashion and style.
+
+<br/>
 
 [Book our In Person Color Analysis](/contact.html)

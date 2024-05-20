@@ -9,11 +9,15 @@ featured_image: /images/demo/demo-landscape.jpg
 
 Embark on a journey to discover the colors that enhance your natural beauty from the comfort of your own home. Our Virtual Color Analysis Experience is designed to provide personalized color guidance, helping you understand which colors complement your skin tone, hair, and eyes, thereby boosting your confidence and simplifying your wardrobe choices.
 
+<br/>
+
 **Session Details**:
 
 *Duration*: 2-3 hours
     
 *Platform*: Conducted via Zoom, Skype, or a similar platform for a personalized and interactive experience.
+
+<br/>
 
 ### How The Process Works
 
@@ -26,6 +30,8 @@ Gain an understanding of color theory and the 12-season color analysis system.
 Determine your unique color season and its implications for fashion, makeup, and accessories.
 
 Receive practical tips on how to incorporate your color palette into your daily life.
+
+<br/>
 
 **Package Inclusions**:
 
@@ -63,7 +69,11 @@ Special discounts on future virtual workshops or in-person consultations.
 
 Access to a private online community where you can share experiences and tips with others who have completed the analysis.
 
+<br/>
+
 **Investment**: 249€
+
+<br/>
 
 **Booking and Payment**:
 
@@ -74,6 +84,8 @@ Flexible rescheduling policy for any changes made at least 24 hours in advance.
 
 This session is perfect for anyone looking to refine their personal style or make more informed fashion and shopping decisions.
 It is ideal for those with busy schedules who prefer the convenience of receiving personalized advice remotely.
+
+<br/>
 
 [Book a Virtual Color Analysis](/contact.html)
 
