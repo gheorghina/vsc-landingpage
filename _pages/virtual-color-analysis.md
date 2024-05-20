@@ -15,6 +15,10 @@ Embark on a journey to discover the colors that enhance your natural beauty from
     
 *Platform*: Conducted via Zoom, Skype, or a similar platform for a personalized and interactive experience.
 
+### How The Process Works
+
+![](/images/services/sv_virtual_steps.png)
+
 **Objectives**:
 
 Gain an understanding of color theory and the 12-season color analysis system.
