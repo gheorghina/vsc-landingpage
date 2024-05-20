@@ -51,6 +51,25 @@ It is ideal for those with busy schedules who prefer the convenience of receivin
 ![](/images/services/s_va_0.png)
 
 
+## Style Coaching
+
+Unlock your personal style and boost your confidence with our expert style coaching services. This comprehensive package is designed to help you understand and enhance your personal style, making it easier for you to make wardrobe choices that reflect your true self. Whether you're looking to refresh your current style, need a complete makeover, or want guidance for a special occasion, our style coaching will provide you with the tools and knowledge you need.
+
+This service is perfect for individuals looking to elevate their personal style and build a versatile wardrobe.
+
+It is ideal for professionals, busy parents, or anyone seeking a confidence boost through improved style.
+
+It makes a thoughtful gift for friends or family members who love fashion or are embarking on a new life phase (e.g., career change) 
+
+**Investment**: 1649€
+
+[**More Details**](/style-coaching.html) 
+
+[Book our Style Coaching Services](/contact.html)
+
+![](/images/services/style_coaching.png)
+
+
 ## Color Analysis Workshop
 
 Unlock the secrets to enhancing your natural beauty and confidence with our exclusive Color Analysis Workshop. 
