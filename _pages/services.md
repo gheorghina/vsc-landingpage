@@ -24,58 +24,53 @@ Unlock your best look with our precision color analysis. Understand which colors
 
 Our expert-guided analysis uses advanced technology to determine your ideal color palette.
 
-### Benefits:
+**Investment**: 349€ 
 
-**Personal Touch**: Benefit from direct interaction and immediate feedback from our style experts.
+[**More Details**](/in-person-color-analysis.html)
 
-**Precision Results**: Get the most accurate color palette with our in-depth, face-to-face analysis.
+[Book our In Person Color Analysis](/contact.html)
 
-**Boost Your Confidence**: Look and feel your best in colors that complement your skin tone, hair, and eyes.
-
-**Smart Shopping**: Save time and money by knowing exactly which colors to choose for your wardrobe and makeup.
-
-**Tailored Style Advice**: Receive personalized tips and recommendations to refine your style effortlessly.
-
-We offer this service at the following locations: 
-
-**Germany**: Berlin 
-
-**Romania**: Cluj-Napoca, Maramures
-
-**Pricing**: 349€.
-
-[Schedule In Person Color Analysis](https://virtualstylecompanion.com/contact.html)
-
-![](/images/services/Screenshot%20from%202024-01-20%2020-50-48.png)
+![](/images/services/s_ca_0.png)
 
 
 ## Virtual Color Analysis
 
-Experience the convenience of virtual color analysis from the comfort of your own space. 
+Embark on a journey to discover the colors that enhance your natural beauty from the comfort of your own home. Our Virtual Color Analysis Experience is designed to provide personalized color guidance, helping you understand which colors complement your skin tone, hair, and eyes, thereby boosting your confidence and simplifying your wardrobe choices.
 
-No matter where you are, get expert color analysis through our virtual sessions. 
+Experience the convenience of virtual color analysis from the comfort of your own space. No matter where you are, get expert color analysis through our virtual sessions. 
 
-Send us your photo and let our advanced algorithms, combined with expert review, determine your ideal color palette.
+This session is perfect for anyone looking to refine their personal style or make more informed fashion and shopping decisions.
+It is ideal for those with busy schedules who prefer the convenience of receiving personalized advice remotely.
 
-### Benefits:
+**Investment**: 249€
 
-**Convenience**: Access expert advice without leaving your home.
+[**More Details**](/virtual-color-analysis.html) 
 
-**Fast and Effective**: Receive your personalized color analysis and style tips quickly.
+[Book Virtual Color Analysis](/contact.html)
 
-**Interactive Guidance**: Follow-up with our experts to refine your style virtually.
-
-**Pricing**: 229€.
+![](/images/services/s_va_0.png)
 
 
-[Schedule Virtual Color Analysis](https://virtualstylecompanion.com/contact.html)
+## Color Analysis Workshop
 
-![](/images/services/Screenshot%20from%202024-01-20%2020-51-30.png)
+Unlock the secrets to enhancing your natural beauty and confidence with our exclusive Color Analysis Workshop. 
+Designed for a maximum of 5 participants, this intimate and personalized experience will guide each individual through the fundamentals of color theory and how specific colors can harmonize with their natural skin, hair, and eye colors to create stunning, impactful looks.
+
+This workshop is ideal for friends, family, or coworkers looking to share a unique and enriching experience.
+It is perfect for those interested in fashion, personal development, or a fun group activity.
+
+**Investment**: 439€
+
+[**More Details**](/workshops.html) 
+
+[Book a Color Analysis Workshop](/contact.html)
+
+![](/images/services/services_workshop.png)
 
 
 ## Get Notified When VSC Goes Live
 
-[Get Notified on VSC Go Live](https://virtualstylecompanion.com/contact.html)
+[Subscribe to get notified on VSC Go Live](/contact.html)
 
 ![](/images/services/download_app.png)
 
@@ -85,6 +80,8 @@ Use Virtual Style Companion for:
 
 **Unleashing Your True Colors**: Embrace the power of color analysis and discover how colors can
 reflect your unique personality, making every outfit a statement of self-expression.
+
+**Validate Item Colors**: You know your colors but you struggle finding the appropriate items for you? Validate clothing color weather it is in your pallette or not.
 
 **Personal Style Discovery**: With AI or expert guidance and a supportive community, one can redefine their personal style, taking pride in a wardrobe that resonates with your authentic self.
 
