@@ -43,8 +43,8 @@ class Footer extends HTMLElement {
                         <li id="menu-item-14201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14201"><a href="./services.html">Services</a></li>
                         <li id="menu-item-14205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14205"><a href="./in-person-color-analysis.html">In Person Color Analysis</a></li>
                         <li id="menu-item-14204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14204"><a href="./virtual-color-analysis.html">Virtual Color Analysis</a></li>
-                        <li id="menu-item-14203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14203"><a href="./vsc-go-live.html">VSC Go Live Alert</a></li>
-                        <li id="menu-item-14202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14202"><a href="./color-analysis-workshop.html">Color Analysis Workshop</a></li>
+                        <li id="menu-item-14202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14202"><a href="./color-analysis-workshop.html">Color Analysis Workshops</a></li>
+                        <li id="menu-item-14203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14203"><a href="./vsc-go-live.html">VSC Go Live Notification</a></li>
                      </ul>  
                   </div>
                </div>
