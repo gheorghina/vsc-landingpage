@@ -97,8 +97,6 @@ class Header extends HTMLElement {
                      <div class="hm hm2"></div>
                      <div class="hm hm3"></div>
                   </div>
-
-
                </div>
             </div>
          </div>
