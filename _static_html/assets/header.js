@@ -10,7 +10,7 @@ class Header extends HTMLElement {
       <header id="topx" class="ct-div-block top">
          <div id="div_block-601-8" class="ct-div-block tco">
             <div id="div_block-616-8" class="ct-div-block tcr">
-               <a id="link-580-8" class="ct-link lw" href="./index.html" target="_self">
+               <a id="link-580-8" class="ct-link lw" href="./about.html" target="_self">
                   <div id="code_block-581-8" class="ct-code-block lwc">
                      <img class="header-logo" src="./imgs/logo.svg" alt="">
                      <style type="text/css">
