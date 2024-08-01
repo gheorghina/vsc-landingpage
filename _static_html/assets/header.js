@@ -56,6 +56,7 @@ class Header extends HTMLElement {
                                     <li id="menu-item-14209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14209"><a href="./in-person-color-analysis.html">In Person Color Analysis</a></li>
                                     <li id="menu-item-14208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14208"><a href="./virtual-color-analysis.html">Virtual Color Analysis</a></li>
                                     <li id="menu-item-14206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14206"><a href="./color-analysis-workshop.html">Color Analysis Workshops</a></li>
+                                    <li id="menu-item-14207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14207"><a href="./style-coaching.html">Style Coaching</a></li>
                                     <li id="menu-item-14207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14207"><a href="./vsc-go-live.html">VSC Go Live Notification</a></li>
                                  </ul>
                               </li>
