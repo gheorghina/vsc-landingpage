@@ -1,15 +1,15 @@
 /* Version: Code Snippet "MA Custom Fonts" 3.4.2 */
-@font-face{font-family:"ClashDisplay";font-weight:200;font-style:normal;src:url("//vsc.brandpal.net/wp-content/uploads/fonts/ClashDisplay-Extralight.woff") format("woff");font-display:block;}
-@font-face{font-family:"ClashDisplay";font-weight:300;font-style:normal;src:url("//vsc.brandpal.net/wp-content/uploads/fonts/ClashDisplay-Light.woff") format("woff");font-display:block;}
-@font-face{font-family:"ClashDisplay";font-weight:400;font-style:normal;src:url("//vsc.brandpal.net/wp-content/uploads/fonts/ClashDisplay-Regular.woff") format("woff");font-display:block;}
-@font-face{font-family:"ClashDisplay";font-weight:500;font-style:normal;src:url("//vsc.brandpal.net/wp-content/uploads/fonts/ClashDisplay-Medium.woff") format("woff");font-display:block;}
-@font-face{font-family:"ClashDisplay";font-weight:600;font-style:normal;src:url("//vsc.brandpal.net/wp-content/uploads/fonts/ClashDisplay-Semibold.woff") format("woff");font-display:block;}
-@font-face{font-family:"ClashDisplay";font-weight:700;font-style:normal;src:url("//vsc.brandpal.net/wp-content/uploads/fonts/ClashDisplay-Bold.woff") format("woff");font-display:block;}
-@font-face{font-family:"fa";font-weight:100;font-style:normal;src:url("//vsc.brandpal.net/wp-content/uploads/fonts/fa-thin-100.woff2") format("woff2");font-display:block;}
-@font-face{font-family:"fa";font-weight:300;font-style:normal;src:url("//vsc.brandpal.net/wp-content/uploads/fonts/fa-light-300.woff2") format("woff2");font-display:block;}
-@font-face{font-family:"fa";font-weight:400;font-style:normal;src:url("//vsc.brandpal.net/wp-content/uploads/fonts/fa-regular-400.woff2") format("woff2");font-display:block;}
-@font-face{font-family:"fa-brands";font-weight:400;font-style:normal;src:url("//vsc.brandpal.net/wp-content/uploads/fonts/fa-brands-400.woff2") format("woff2");font-display:block;}
-@font-face{font-family:"fa-solid";font-weight:900;font-style:normal;src:url("//vsc.brandpal.net/wp-content/uploads/fonts/fa-solid-900.woff2") format("woff2");font-display:block;}
+@font-face{font-family:"ClashDisplay";font-weight:200;font-style:normal;src:url("./fonts/ClashDisplay-Extralight.woff") format("woff");font-display:block;}
+@font-face{font-family:"ClashDisplay";font-weight:300;font-style:normal;src:url("./fonts/ClashDisplay-Light.woff") format("woff");font-display:block;}
+@font-face{font-family:"ClashDisplay";font-weight:400;font-style:normal;src:url("./fonts/ClashDisplay-Regular.woff") format("woff");font-display:block;}
+@font-face{font-family:"ClashDisplay";font-weight:500;font-style:normal;src:url("./fonts/ClashDisplay-Medium.woff") format("woff");font-display:block;}
+@font-face{font-family:"ClashDisplay";font-weight:600;font-style:normal;src:url("./fonts/ClashDisplay-Semibold.woff") format("woff");font-display:block;}
+@font-face{font-family:"ClashDisplay";font-weight:700;font-style:normal;src:url("./fonts/ClashDisplay-Bold.woff") format("woff");font-display:block;}
+@font-face{font-family:"fa";font-weight:100;font-style:normal;src:url("./fonts/fa-thin-100.woff2") format("woff2");font-display:block;}
+@font-face{font-family:"fa";font-weight:300;font-style:normal;src:url("./fonts/fa-light-300.woff2") format("woff2");font-display:block;}
+@font-face{font-family:"fa";font-weight:400;font-style:normal;src:url("./fonts/fa-regular-400.woff2") format("woff2");font-display:block;}
+@font-face{font-family:"fa-brands";font-weight:400;font-style:normal;src:url("./fonts/fa-brands-400.woff2") format("woff2");font-display:block;}
+@font-face{font-family:"fa-solid";font-weight:900;font-style:normal;src:url("./fonts/fa-solid-900.woff2") format("woff2");font-display:block;}
 .has-clashdisplay-font-family{font-family:"ClashDisplay";}
 .has-fa-font-family{font-family:"fa";}
 .has-fa-brands-font-family{font-family:"fa-brands";}
