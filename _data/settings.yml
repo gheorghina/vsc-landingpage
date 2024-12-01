@@ -35,7 +35,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'https://www.facebook.com/profile.php?id=61569475903024'
   twitter_url: 'https://twitter.com/vscompanion'
   instagram_url: 'https://www.instagram.com/virtualstylecompanion/'
   snapchat_url: ''
@@ -60,7 +60,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/company/virtual-style-companion/'
 
 color_settings:
   background_color: '#ffffff'

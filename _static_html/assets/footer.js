@@ -58,7 +58,10 @@ class Footer extends HTMLElement {
                   <div id="code_block-90-12607" class="ct-code-block fsoc_w mb-x">	
                      <a class="fsoc" href="https://www.instagram.com/virtualstylecompanion/" target="_blank">
                      <i class="fab fa-instagram"></i>		          
-                     </a>  
+                     </a> 
+                     <a class="fsoc" href="https://www.facebook.com/profile.php?id=61569475903024" target="_blank">
+                     <i class="fab fa-facebook"></i>		          
+                     </a> 
                      <a class="fsoc" href="https://twitter.com/vscompanion" target="_blank">
                      <i class="fab fa-twitter"></i>		          
                      </a>  
