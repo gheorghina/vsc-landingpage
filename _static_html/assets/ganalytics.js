@@ -22,4 +22,4 @@ class GoogleAnalytics extends HTMLElement {
     }
   }
   
-  customElements.define('header-component', GoogleAnalytics);
+  customElements.define('analytics-component', GoogleAnalytics);
