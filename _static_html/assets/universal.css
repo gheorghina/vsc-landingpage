@@ -680,6 +680,12 @@ justify-content:space-between;
 .fc-b {
  color:#000000;
 }
+
+.fc-b-line-through {
+  text-decoration: line-through;
+  color:#000000;
+ }
+
 .mb-x {
  margin-bottom:21px;
 }
