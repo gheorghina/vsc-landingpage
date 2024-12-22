@@ -15,7 +15,7 @@ class GoogleAnalytics extends HTMLElement {
             function gtag() { dataLayer.push(arguments); }
             gtag('js', new Date());
 
-            gtag('config', 'G-ZJY2CGXJ0R');
+            gtag('config', 'G-E2S9Z00ZE1');
         </script>
   
       `;
